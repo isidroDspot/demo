@@ -10,5 +10,55 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "changes":{
+    "inserted": [
+      {
+        "changeId": "616CC6C2-7618-4D0B-9414-637ECE8AE88F",  "ingestionType": "D",
+        "ingestionDateTime": "2020-11-03T06:31:18.185Z",  "pillId": 0,
+        "tagId": 0
+      }
+    ],
+    "deleted": [
+      {
+        "changeId": "201F64CB-D767-4C8F-B537-347927E72BC1",  "ingestionType": "M",
+        "ingestionDateTime": "2020-11-03T06:31:18.185Z",  "pillId": 0,
+        "tagId": 0
+      }
+    ],
+    "updated": [
+      {
+        "deleted": [
+          {
+            "changeId": "C3C7CC6B-75B4-4280-B4BE-35D15E61E930",  "ingestionType": "M",
+            "ingestionDateTime": "2020-11-03T06:31:18.185Z",  "pillId": 0,
+            "tagId": 0
+          }
+        ],
+        "inserted": [
+          {
+            "changeId": "047E94D3-3147-44B9-A1D3-36BEC8DD6033",  "ingestionType": "M",
+            "ingestionDateTime": "2020-11-03T16:50:00.185Z",  "pillId": 0,
+            "tagId": 0
+          }
+        ]
+      },
+      {
+        "deleted": [
+          {
+            "changeId": "56BF7AC1-6C73-43E3-9234-3D0710246F94",  "ingestionType": "M",
+            "ingestionDateTime": "2020-10-13T06:31:18.185Z",  "pillId": 0,
+            "tagId": 0
+          }
+        ],
+        "inserted": [
+          {
+            "changeId": "6AAFEB12-0AE6-4152-8E7F-408AC1564152",  "ingestionType": "D",
+            "ingestionDateTime": "2020-10-13T15:45:00.185Z",  "pillId": 0,
+            "tagId": 0
+          }
+        ]
+      }
+    ]
   }
 }
