@@ -41,7 +41,7 @@
         "inserted": [
           {
             "changeId": "6AAFEB12-0AE6-4152-8E7F-408AC1564152",  "ingestionType": "D",
-            "ingestionDateTime": "2020-10-13T15:45:00.185Z",  "pillId": 0,
+            "ingestionDateTime": "2020-10-:00.185Z",  "pillId": 0,
             "tagId": 0
           }
         ]
